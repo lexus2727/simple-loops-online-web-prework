@@ -15,7 +15,7 @@ def loop_iterator(number_of_times)
   #puts " This phrase has been printed #{counter}"
 end
 end
-#loop_iterator(7)
+loop_iterator(7)
    
   # This and all the other methods take an argument of an integer 
   # The integer is the number of times the loops should puts out the phrase
