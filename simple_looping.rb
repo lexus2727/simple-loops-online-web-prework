@@ -7,12 +7,12 @@ def loop_iterator(number_of_times)
     phrase = "Welcome to Flatiron School's Web Development Course! "
    puts phrase
    
-   puts "Iteration #{counter} of the loop"
+   #puts "Iteration #{counter} of the loop"
  counter += 1
    if counter == number_of_times
      break
     end
-  puts " This phrase has been printed #{counter}"
+  #puts " This phrase has been printed #{counter}"
 end
 end
 #loop_iterator(7)
